@@ -44,4 +44,12 @@ $ git reset
 
 
 ====== version control ===========
-$
+$ git log --oneline
+    bf22a77 (HEAD -> master) one
+    f9636d7 Bangladesh added
+    43668c0 c++ updated
+
+$ git checkout f9636d7
+
+//undo
+$ git checkout master

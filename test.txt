@@ -1,0 +1,31 @@
+working directory => staging area => local repo => remote repo
+
+test project      => git add     => git commit  => git push
+
+================== git status =================
+==> git status
+/ tracked
+/ untraked
+
+
+============= git staging =============
+==> git add fil_name
+==> git add .
+
+
+================= git track ============
+// chk wather a file updated or not or added or not
+// it track change or version control
+
+================= git diff ==============
+==> git diff
+//difference after modified
+
+================= stage and unsatge ==========
+==> git restore hello.cpp
+//u can restore to privious condition
+
+
+=========================================
+=== moving staging area to local repo ===
+

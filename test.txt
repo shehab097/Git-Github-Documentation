@@ -29,3 +29,12 @@ test project      => git add     => git commit  => git push
 =========================================
 === moving staging area to local repo ===
 
+======= git commit =======
+$ git commit -m "messaagae" 
+
+====== git commit status ===========
+Shehab@SHEHAB MINGW64 /d/code/CODING/GIT (master)
+
+$ git log
+
+

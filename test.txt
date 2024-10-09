@@ -36,5 +36,12 @@ $ git commit -m "messaagae"
 Shehab@SHEHAB MINGW64 /d/code/CODING/GIT (master)
 
 $ git log
+$ git log --oneline
 
 
+========== Git unstage ==========
+$ git reset
+
+
+====== version control ===========
+$

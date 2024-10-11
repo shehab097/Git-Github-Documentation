@@ -1,13 +1,13 @@
 # Git Workflow Overview
 
-###Working Directory ➡️ Staging Area ➡️ Local Repository ➡️ Remote Repository
+### Working Directory ➡️ Staging Area ➡️ Local Repository ➡️ Remote Repository
 
 ### Test Project ➡️ git add ➡️ git commit ➡️ git push
 
 
 ------------
 
-###Git Status
+### Git Status
 
 ##### To check the state of your project files (tracked, untracked):
 
@@ -17,7 +17,7 @@ git status
 
 - **Tracked Files:** Files that are already being tracked by Git.
 
-- **Untracked Files: **Files that are not tracked yet (need to be added to version control).
+- **Untracked Files:** Files that are not tracked yet (need to be added to version control).
 
 
 
@@ -132,9 +132,9 @@ git checkout master
 
 > **Make commits often**- Make commits often, but not too frequently. Keep your changes logically grouped.
 
->**Keep commit messages short** (50 characters or less).
+> **Keep commit messages short** (50 characters or less).
 
->Use **imperative mood** in commit messages (e.g., "Add:", "Remove:").
+> Use **imperative mood** in commit messages (e.g., "Add:", "Remove:").
 
 ### Commit with Details
 
